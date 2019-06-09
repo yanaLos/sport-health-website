@@ -1,0 +1,10 @@
+.ReadMore:hover {
+	box-shadow: 0 0 30px lightgrey;
+	text-decoration: none;
+	color: white;
+}
+.foto > img { width: 50px; margin: 10px; transition: transform 0.5s }
+.foto > img:hover { transform: scale(1.2); }
+
+.item > img:hover { transform: scale(1.2); }
+
